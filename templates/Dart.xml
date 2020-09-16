@@ -1,0 +1,7 @@
+<templateSet group="Dart">
+  <template name="cc" value="/// Copyright 2020 ke.com. All rights reserved.&#10;/// @author 庞玉彤（pangyutong001@ke.com）&#10;/// @date     $DATE$ $TIME$&#10;/// @desc    $DESC$" description="abbr" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DESC" expression="" defaultValue="File" alwaysStopAt="true" />
+  </template>
+</templateSet>
